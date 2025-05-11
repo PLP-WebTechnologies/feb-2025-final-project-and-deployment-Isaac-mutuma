@@ -161,38 +161,6 @@ The Digital Marketing Blog Website is a responsive, multi-page web application d
 4. Screen reader considerations
 
 
-## File Structure
-digital_marketing_blog/
-├── app/                      # Next.js App Router directory
-│   ├── about/                # About page
-│   ├── blog/                 # Blog pages
-│   │   ├── [slug]/           # Dynamic blog post pages
-│   │   └── page.tsx          # Blog listing page
-│   ├── contact/              # Contact page
-│   ├── globals.css           # Global styles
-│   ├── layout.tsx            # Root layout
-│   └── page.tsx              # Home page
-├── components/               # Reusable components
-│   ├── blog-post-card.tsx    # Blog post card component
-│   ├── featured-posts.tsx    # Featured posts carousel
-│   ├── footer.tsx            # Footer component
-│   ├── header.tsx            # Header/navigation component
-│   ├── mode-toggle.tsx       # Dark/light mode toggle
-│   ├── newsletter-signup.tsx # Newsletter form component
-│   ├── related-posts.tsx     # Related posts component
-│   ├── team-member.tsx       # Team member card component
-│   ├── theme-provider.tsx    # Theme context provider
-│   └── ui/                   # UI components from shadcn
-├── hooks/                    # Custom React hooks
-│   ├── use-mobile.tsx        # Hook for detecting mobile devices
-│   └── use-toast.ts          # Toast notification hook
-├── lib/                      # Utility functions and data
-│   ├── blog-data.ts          # Blog post data
-│   ├── types.ts              # TypeScript type definitions
-│   └── utils.ts              # Utility functions
-├── public/                   # Static assets
-├── tailwind.config.ts        # Tailwind CSS configuration
-└── next.config.mjs           # Next.js configuration
 
 
 ### Digital Marketing Blog Website - Project Documentation
