@@ -1,3 +1,4 @@
+![image alt](https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-Isaac-mutuma/blob/main/Landing.png?raw=true)
 ### Digital Marketing Blog Website - Project Documentation
 
 ## Table of Contents
